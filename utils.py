@@ -1,3 +1,6 @@
+"""Basic math module"""
+
+
 def add(a: int, b: int) -> int:
     """This function returns sum of two inputs"""
     return a + b
