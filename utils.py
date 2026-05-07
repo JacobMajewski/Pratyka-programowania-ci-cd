@@ -22,3 +22,7 @@ def divide(a: int, b: int) -> float:
     """This function returns float result division of two inputs"""
 
     return a / b
+
+def square(a: int) -> int:
+    """Returns square of argument"""
+    return a**2
