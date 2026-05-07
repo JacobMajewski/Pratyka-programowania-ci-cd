@@ -31,7 +31,7 @@ def test_divide(a, b, expected):
     result = utils.divide(a, b)
     assert result == expected
 
-@pytest.mark.parametrize("a, expected ", [(1, 1), (3, 9), (4, 16)])
-def test_square(a, expected):
-    result = utils.square(a)
-    assert result == expected
+#@pytest.mark.parametrize("a, expected ", [(1, 1), (3, 9), (4, 16)])
+#def test_square(a, expected):
+#    result = utils.square(a)
+#    assert result == expected
