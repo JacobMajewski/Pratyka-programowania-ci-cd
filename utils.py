@@ -23,6 +23,7 @@ def divide(a: int, b: int) -> float:
 
     return a / b
 
-#def square(a: int) -> int:
+
+# def square(a: int) -> int:
 #    """Returns square of argument"""
 #    return a**2
